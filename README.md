@@ -6,8 +6,8 @@ Tools Used: Power BI, DAX
 
 Key Insights:
 
-Attrition Rate: 16.12% (237 out of 1470 employees).
-Demographics: Average employee age is 37 years, with an average salary of $7K.
+- Attrition Rate: 16.12% (237 out of 1470 employees).
+- Demographics: Average employee age is 37 years, with an average salary of $7K.
 Education Field: Highest attrition in Life Sciences and lowest in Technical Degree fields.
 Age Group: Most attrition among employees aged 26-35.
 Salary Range: Highest attrition in the salary range up to $5K.
