@@ -8,10 +8,11 @@ Key Insights:
 
 - Attrition Rate: 16.12% (237 out of 1470 employees).
 - Demographics: Average employee age is 37 years, with an average salary of $7K.
-Education Field: Highest attrition in Life Sciences and lowest in Technical Degree fields.
-Age Group: Most attrition among employees aged 26-35.
-Salary Range: Highest attrition in the salary range up to $5K.
-Years at Company: Peak attrition occurs within the first year.
-Job Roles: Laboratory Technicians and Sales Executives have the highest attrition.
-Gender: Higher attrition among male employees (882) compared to female employees (588).
+-Education Field: Highest attrition in Life Sciences and lowest in Technical Degree fields.
+-Age Group: Most attrition among employees aged 26-35.
+-Salary Range: Highest attrition in the salary range up to $5K.
+-Years at Company: Peak attrition occurs within the first year.
+-Job Roles: Laboratory Technicians and Sales Executives have the highest attrition.
+-Gender: Higher attrition among male employees (882) compared to female employees (588).
+<br>
 This project provided HR managers with actionable insights to address and mitigate employee attrition, enhancing workforce stability and strategic planning.
